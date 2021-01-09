@@ -1,6 +1,7 @@
 package com.bytes.parser.util;
 
-import com.wujiuye.asmbytecode.book.second.type.U2;
+
+import com.bytes.parser.type.U2;
 
 import java.util.HashMap;
 import java.util.Map;
